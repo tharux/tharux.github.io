@@ -9,3 +9,6 @@ categories: cheatsheet node
 ### Run nodemon watch for extenisions
 `(npx) nodemon --exec "<command>" --ext <ext1,ext2,ext3>`
 
+## Web Test Runner
+### Run web tests
+`(npx) wtr <**/path/to/files> --node-resolve`
